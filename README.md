@@ -72,3 +72,25 @@ Atomicity Test (Transaction Rollback):
 Centralized Modification Test:
 - Use the modify(t) function to update multiple, diverse data points across different tables (e.g., updating a pet's price, an employee's salary, and the nourishment quantity).
 - Verification: Confirm that only the explicitly targeted fields are updated correctly in the database, without affecting other unrelated data.
+<img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/ec39503f-2bb1-4707-9db3-57cf53a7bafc" />
+<img width="972" height="714" alt="image" src="https://github.com/user-attachments/assets/b0b23ad1-a6d8-47cb-ac48-29c5cff26825" />
+
+<img width="555" height="395" alt="image" src="https://github.com/user-attachments/assets/e5b61985-c527-40a2-ae03-17186308a415" />
+
+<img width="1071" height="842" alt="image" src="https://github.com/user-attachments/assets/421a7195-76f7-4ae1-adf0-275e259a1ec6" />
+<img width="928" height="792" alt="image" src="https://github.com/user-attachments/assets/a7becb31-c137-4f0a-b94e-3c920cd8f367" />
+<img width="1102" height="683" alt="image" src="https://github.com/user-attachments/assets/e2ecef78-68c9-4439-ae7b-3f95ce18bba1" />
+<img width="979" height="501" alt="image" src="https://github.com/user-attachments/assets/10f57df3-26d0-481e-85ca-29e38bc6d879" />
+<img width="647" height="451" alt="image" src="https://github.com/user-attachments/assets/1b5d1345-d0b0-4c59-a171-4b3c73e80faf" />
+<img width="985" height="509" alt="image" src="https://github.com/user-attachments/assets/05298e39-03c7-469a-800f-5593373cd27a" />
+<img width="1051" height="786" alt="image" src="https://github.com/user-attachments/assets/a38f6505-f0c9-4df1-b852-bbde0121bed1" />
+<img width="1079" height="793" alt="image" src="https://github.com/user-attachments/assets/98b3e421-f8a0-4048-a792-81c55dce577e" />
+<img width="1001" height="825" alt="image" src="https://github.com/user-attachments/assets/52e96e50-7916-4656-9995-65bad8daa49d" />
+<img width="1001" height="825" alt="image" src="https://github.com/user-attachments/assets/7b10b2e6-8a52-4eaa-a6ab-a799ae770741" />
+<img width="1067" height="707" alt="image" src="https://github.com/user-attachments/assets/a46c5c7e-14ec-4591-9db0-b3df89a99e6a" />
+<img width="1280" height="626" alt="image" src="https://github.com/user-attachments/assets/b38b341c-3fd6-4f83-b370-8589a27696f8" />
+<img width="849" height="866" alt="image" src="https://github.com/user-attachments/assets/48400df1-8e5f-4446-8521-25d0ac87382c" />
+
+<img width="932" height="423" alt="image" src="https://github.com/user-attachments/assets/28dbd79c-4238-4617-a64d-9d8be5f7e6e3" />
+
+
